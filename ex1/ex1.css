@@ -1,0 +1,22 @@
+.container{
+	width: 1000px;
+	text-align: center;
+	background-color: white;
+}
+.Web{
+	height: 200px;
+	width: 250px;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	background-color: violet;
+	color: white;
+	margin: 70px;
+}
+.cot{
+	width: 320px;
+	margin-left: 10px;	
+	float: left;
+
+}
