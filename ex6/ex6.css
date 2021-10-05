@@ -1,0 +1,23 @@
+.container{
+	width: 1100px;
+	background-color: black;
+}
+.left{
+	width: 300px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: red;
+	float: left;
+	color: white ;
+}
+.right{
+	padding-left: 30px;
+	width: 700px;
+	height: 400px;
+	float: left;
+}
+button:hover{
+	background-color: red;
+}

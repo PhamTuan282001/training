@@ -1,0 +1,46 @@
+.container{
+	background-color: black;
+	color: white;
+	padding: 10px 20px;
+}
+.in{
+	width: 150px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: violet;
+	color: white;
+	text-align: center;
+	padding: 0px 30px;
+}
+.text{
+	margin-left: -20px;
+	font-size: 10px;
+	padding: 5px 20px;
+}
+.cot{
+	width: 5px;
+	height: 5px;
+	float: left;
+}
+.menu{
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	padding: 0px 70px;
+	float: left;
+}
+a{
+	text-decoration: none;
+	display: block;
+}
+a:hover{
+	color: white;
+}
